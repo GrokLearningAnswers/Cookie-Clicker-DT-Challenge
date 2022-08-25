@@ -1,0 +1,1 @@
+let finePrint = document.querySelector('small');

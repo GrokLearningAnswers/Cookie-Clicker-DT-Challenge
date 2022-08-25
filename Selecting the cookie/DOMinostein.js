@@ -1,0 +1,1 @@
+let cookie = document.querySelector('b');

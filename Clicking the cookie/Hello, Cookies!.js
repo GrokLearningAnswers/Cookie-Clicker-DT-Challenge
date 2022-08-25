@@ -1,0 +1,1 @@
+alert('Cookies! My favourite!');
